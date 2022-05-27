@@ -1,0 +1,70 @@
+segment_sources:
+  I41D02F6F:
+    type: origin_type
+    relation: translation
+    language: sa
+  I9942BDF6:
+    type: origin_type
+    relation: translation
+    language: bo
+  I70D09A1C:
+    type: origin_type
+    relation: translation
+    language: pgd
+  IBA44E2E8:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA068E934:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB371FEF4:
+    type: origin_type
+    relation: translation
+    language: zh
+  IFE4EC7A8:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  0db964a023f549868c2dcfc1d8acbf02:
+    I41D02F6F: ac9c9495ab1449d2839ea457e8b01479
+    I9942BDF6: 4fa17079fcdf4b3eaeefcde8b02456e9
+    I70D09A1C: None
+    IBA44E2E8: 35cb5c9eb3064a64ad8b20ba96b7fdc9
+    IA068E934: a992c7fbe71b46d983398498abfbef93
+    IB371FEF4: 6347c408aaab438998cdc947ad2ae751
+    IFE4EC7A8: 3f8d235a37424c5b8a3f493519d15a91
+  beaa1fe36a1d437c81bcb24721a620ce:
+    I41D02F6F: 6b4b0feac4f14a3ea1a7c2bd5c3a69cc
+    I9942BDF6: 665ce4731b8f49759d0be3e2861e2484
+    I70D09A1C: None
+    IBA44E2E8: 7e897d18b9034512bf55e56f9290c042
+    IA068E934: 2e17deb9d02d4d0bbfccb9e26aac8967
+    IB371FEF4: 70a0284cab5a4b6c8bf2bfe12975a89c
+    IFE4EC7A8: 1786f3a8cb274281a1dcf72de8fc7400
+  1bada1810a0249a9b517d813731c36c9:
+    I41D02F6F: cb3d6f05ef87486d85525e5f4c0ed930
+    I9942BDF6: c925f3e7bc1c4eedadb763283d31efbb
+    I70D09A1C: None
+    IBA44E2E8: c1eefaaed34b466dbbf1f77102c5bc22
+    IA068E934: 7f7ebfa1831d45689673429b5007dc32
+    IB371FEF4: 679c6a5bb14f431eb19571137b6b29a7
+    IFE4EC7A8: 308db81b307e4289b157edc31fc61659
+  5052c36eeeb1496d9e5aa36b6cc50d85:
+    I41D02F6F: 4b8a771a32164a0abc320540fa4b1e56
+    I9942BDF6: 515e687dfc4b4511a44174570c82b5a9
+    I70D09A1C: None
+    IBA44E2E8: d8eb7037607c42d8adb280fa741bbb55
+    IA068E934: 6354a1181a9246409e25c83716d5aa6e
+    IB371FEF4: d32b19d4cf5745ebad0a104b8bc85ef7
+    IFE4EC7A8: b91e06c8df85468da9868b24deaafb85
+  63e7eef583f248f3a61e50f8fb1ee628:
+    I41D02F6F: d3718451834e48598a3eda9ab126aeea
+    I9942BDF6: 342eb3ba07384b19a22067e6c73c160f
+    I70D09A1C: None
+    IBA44E2E8: 5f78d9f5ae974b9a92d9f6f01645cc80
+    IA068E934: 871cfbf99dad4723ba85e66913b7b25b
+    IB371FEF4: da91109eb060406bb4adcc90d76d8d9f
+    IFE4EC7A8: 9cb53fffdedb45aabf682e954cefede1

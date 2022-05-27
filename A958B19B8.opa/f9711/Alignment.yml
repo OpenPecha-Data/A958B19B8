@@ -1,0 +1,70 @@
+segment_sources:
+  I41D02F6F:
+    type: origin_type
+    relation: translation
+    language: sa
+  I9942BDF6:
+    type: origin_type
+    relation: translation
+    language: bo
+  I70D09A1C:
+    type: origin_type
+    relation: translation
+    language: pgd
+  IBA44E2E8:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA068E934:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB371FEF4:
+    type: origin_type
+    relation: translation
+    language: zh
+  IFE4EC7A8:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  34f553070808439397ebcc96644eae00:
+    I41D02F6F: f8cf9752686142439df563c5bf370ee7
+    I9942BDF6: f1887e59765848e08e156ed750a35c7c
+    I70D09A1C: None
+    IBA44E2E8: be0af8230c0542318ea54e85975b243a
+    IA068E934: c17790def82b4c75a0fb42aac689b606
+    IB371FEF4: 24abe1bc173c4ce182309d69497bcb63
+    IFE4EC7A8: b063226b9dd04f4faabf26ed55fc8561
+  9f937eeb0e994f008bb28a441f147b2c:
+    I41D02F6F: ada3fc5010604eef97dc3130b6aabc4e
+    I9942BDF6: ae83718d070e45eea2716cfa0daed51c
+    I70D09A1C: None
+    IBA44E2E8: 651d5e650d0b4bb5b35e34960988fa99
+    IA068E934: d5a61dd8a4a4429193d6dc8213f5e304
+    IB371FEF4: b396f4be66fd487581ea4fbc82dba87a
+    IFE4EC7A8: ba64ad21643e4640a5754dc6fb831200
+  1cd93fe9d2b44378b4940210de02d30f:
+    I41D02F6F: b5fe4808531a48189ddba7be6a2c6667
+    I9942BDF6: d922756ce01e4fbdbda636d013b9ebd0
+    I70D09A1C: None
+    IBA44E2E8: 6db1fef5ca964b748087198e52c98466
+    IA068E934: 4fb07a79cd63403793a33bd6087834f9
+    IB371FEF4: 5d4358d3f0294d25b3ccdcb8ea32fbf9
+    IFE4EC7A8: 746657063459419f84bd3eacb673d23b
+  e629d218c7f545c28581e2bcf9dafb90:
+    I41D02F6F: fed7526577ef4dd694efe5cc60793271
+    I9942BDF6: 8c833761e9354a31965280c80be72d6a
+    I70D09A1C: None
+    IBA44E2E8: d2d4f660252947468917238232eca462
+    IA068E934: 8b7a11cfce014b38b19f60cfc6fe3546
+    IB371FEF4: 56318819040d4feba55cec09e99b9c6a
+    IFE4EC7A8: 981d1137d4a0414fa640d0715e6d3d27
+  06e90452c3e1468089ea6dd0053e5fbb:
+    I41D02F6F: ed0d88034bbb494fb686de5c81eee8e5
+    I9942BDF6: 5a33958a8c494d1791efd55fbbfd8219
+    I70D09A1C: None
+    IBA44E2E8: e91f4f591e844f6bb21cb52bfcbb7354
+    IA068E934: f736f0124507453f8a50d911479939dd
+    IB371FEF4: 6c4ac253f707433687e44902cb260566
+    IFE4EC7A8: 72b24587442c416891dd58b8804e8d37

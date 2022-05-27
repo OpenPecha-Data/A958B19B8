@@ -1,0 +1,62 @@
+segment_sources:
+  I41D02F6F:
+    type: origin_type
+    relation: translation
+    language: sa
+  I9942BDF6:
+    type: origin_type
+    relation: translation
+    language: bo
+  I70D09A1C:
+    type: origin_type
+    relation: translation
+    language: pgd
+  IBA44E2E8:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA068E934:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB371FEF4:
+    type: origin_type
+    relation: translation
+    language: zh
+  IFE4EC7A8:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  0c47530a1edb42e2994347aadcf1b5a0:
+    I41D02F6F: 7b1281aaed80401c886a17e8de282478
+    I9942BDF6: a053d29a3c5e41b3989c8f5c653622aa
+    I70D09A1C: f10a5521bc17429b970449d2a20be366
+    IBA44E2E8: 2f650fe8f8c04eb9b7680568e6de644f
+    IA068E934: 280cd83fac1f48f6aae470b4c776b424
+    IB371FEF4: 7392faa5294e42c6a8a68be91c533ea0
+    IFE4EC7A8: 59ea21e6b1844cc08f6f7185422593e1
+  bb9959f3f448443fad7f732cbdf3cf35:
+    I41D02F6F: 9ea7c420c5754448955e83f4a82a8c3a
+    I9942BDF6: d1f7e4b4ad16414089cbae2277491542
+    I70D09A1C: 0ba0242c0e25411c879a26fbca02adb2
+    IBA44E2E8: 01f9c01d97b341f2b0a76c31dd8dd469
+    IA068E934: f73e9dffc2464d46ac88238f72c93d0e
+    IB371FEF4: 46170a992ef54a19bf2eb189115cceef
+    IFE4EC7A8: 30b12a38678b41a7ab36f51873fc75fb
+  8b40700dd9d4474da1aedbce3f408f38:
+    I41D02F6F: e9553c22caad412cbd054c1af82d67cb
+    I9942BDF6: b4360c3b06f749a587e1c31108869712
+    I70D09A1C: cb16707654824088a4edd1896f0bfb9c
+    IBA44E2E8: b441ab048cd642e6adeb231ac9d4c67d
+    IA068E934: 046fa80d1a00468d9ecf673e6b031b9c
+    IB371FEF4: 9ea00a7cba9c4a409a2c3708336eed73
+    IFE4EC7A8: 4e90d16b26c844128c592162d38016d1
+  59414ddd2b7c4643bb30130b197a789e:
+    I41D02F6F: 44f7a6cacb3041c5960501b1e6d2b326
+    I9942BDF6: 746c6b87944440ce972807bba82a9826
+    I70D09A1C: bb42562f08a5490c99f4eb2a68a4a3de
+    IBA44E2E8: ad55f8f941504125940cf0aceea7a11e
+    IA068E934: ce5e0805c77c4862bd6ede4865aa8d89
+    IB371FEF4: 23b98ad88d0149de910275268f564baa
+    IFE4EC7A8: 00e7377b8cdd4ee7990225e9722e196e
